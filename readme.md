@@ -53,6 +53,6 @@ these values--
 
 To run the code--
 
-	$ python Syn.py
+	$ python syn-worm-flow.py
 
 The malicious datasets will be created in the current directory.
