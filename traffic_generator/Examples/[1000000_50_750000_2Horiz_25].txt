@@ -1,0 +1,1 @@
+type|protocol|sIP|dIP|sPort|dPort|packets|bytes|sTime|duration|initialTCPflags|remainingTCPflags|
